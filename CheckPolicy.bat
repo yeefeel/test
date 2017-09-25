@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy unrestricted .\CheckPolicy.ps1
